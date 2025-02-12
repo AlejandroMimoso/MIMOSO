@@ -1,2 +1,2 @@
 # MIMOSO
-Aquí subiré todas mis cosas relacionadas con entornos de desarrollo.
+Aquí subiré todas mis cosas relacionadas con entornos de desarrollo. Tanto prácticas como apuntes, anotaciones etc....
